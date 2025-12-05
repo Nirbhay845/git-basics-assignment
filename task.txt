@@ -1,1 +1,5 @@
-Task updated from feature-a
+<<<<<<< HEAD
+Task updated from feature-a :)
+=======
+Task updated from feature-b :)
+>>>>>>> feature-b
