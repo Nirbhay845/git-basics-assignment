@@ -1,0 +1,1 @@
+This assignment helped me understand the core concepts of Git and GitHub by actually using them. Before this, I only knew GitHub a little, but now I understand how Git works behind the scenes
